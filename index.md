@@ -1,5 +1,5 @@
 --- 
-layout: vis
+layout: page
 display_site_title: true
 
 ---
