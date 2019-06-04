@@ -47,3 +47,4 @@ exclude:
   - vendor/ruby/
   - bin
   - conf
+  - arch
