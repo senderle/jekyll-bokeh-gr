@@ -18,8 +18,8 @@ subtitle: Readers and Genres of Fiction in Goodreads
 email: scott.enderle@gmail.com  
 description: >- # this means to ignore newlines until "baseurl:"
     Readers and Genres of Fiction in Goodreads
-baseurl: "/jekyll-bokeh-gr" # the subpath of your site, e.g. /blog
-url: "https://senderle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://gr.pennds.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scottenderle
 github_username:  senderle
 
